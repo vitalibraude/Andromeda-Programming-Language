@@ -1,0 +1,5 @@
+{
+  "name": "Andromeda IDE",
+  "description": "A collaborative AI-powered playground for designing and testing the Andromeda programming language, featuring a custom syntax interpreter and design studio.",
+  "requestFramePermissions": []
+}
