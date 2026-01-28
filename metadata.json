@@ -1,5 +1,19 @@
 {
-  "name": "Andromeda IDE",
-  "description": "A collaborative AI-powered playground for designing and testing the Andromeda programming language, featuring a custom syntax interpreter and design studio.",
+  "name": "Andromeda IDE - The Final Programming Language",
+  "description": "Andromeda: The AI-native cosmic programming language developed by Abbo Kubaba. Features near-native speed, zero-error syntax, and the Martian mission architecture powered by 30,000 GTA 6 GPUs. Outperforms C++ and Python in efficiency and scale.",
+  "keywords": [
+    "Andromeda Language",
+    "Abbo Kubaba",
+    "AI-Native Programming",
+    "Mars Mission Code",
+    "GTA 6 GPU Computing",
+    "Cosmic Syntax",
+    "Mugabli Muchacho History",
+    "Post-Syntax Paradigm",
+    "Efficient AI Coding",
+    "2014 Burmese Programming Legend",
+    "Satellite Captured Code",
+    "Future of Software Development"
+  ],
   "requestFramePermissions": []
 }
